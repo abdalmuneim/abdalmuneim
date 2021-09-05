@@ -2,7 +2,9 @@
 - 👀 I’m interested in flutter and dart
 - 🌱 I’m currently learning flutter and dart
 - 💞️ I’m looking to collaborate on create many and build apps
-- 📫 How to reach me Via Twitter or Linkedin "https://www.linkedin.com/in/abdalmuneim-mahmoud-5865bb176/"
+- 📫 How to reach me Via
+-  [Abdalmuneim_CV.pdf](https://github.com/abdalmuneim/abdalmuneim/files/7111541/Abdalmuneim_CV.pdf)
+-  Linkedin https://www.linkedin.com/in/abdalmuneim-mahmoud-5865bb176
 
 <!---
 abdalmuneim/abdalmuneim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
