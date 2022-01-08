@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on create many and build apps
 - 📫 How to reach me Via
 -  [Abdalmuneim_CV.pdf](https://github.com/abdalmuneim/abdalmuneim/files/7834164/Abdalmuneim_CV.pdf)
-)
 -  [Linkedin](https://www.linkedin.com/in/abdalmuneim-mahmoud-5865bb176)
 
 <!---
