@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abdalmuneim
 - 👀 I’m interested in flutter and dart
 - 🌱 I’m currently learning flutter and dart
+- ✔  I have previous experience building applications
 - 💞️ I’m looking to collaborate on create many and build apps
 - 📫 How to reach me Via
 -  [Abdalmuneim_CV.pdf](https://github.com/abdalmuneim/abdalmuneim/files/7834164/Abdalmuneim_CV.pdf)
