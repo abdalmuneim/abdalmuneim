@@ -1,11 +1,12 @@
+<h3 align="center">A passionate flutter developer in any country </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalmuneim&label=Profile%20views&color=0e75b6&style=flat" alt="abdalmuneim" /> </p>
+
 - 👋 Hi, I’m @abdalmuneim
 - 👀 I’m interested in flutter and dart
 - 🌱 I’m currently learning flutter and dart
 - ✔  I have previous experience building applications
 - 💞️ I’m looking to collaborate on create many and build apps
 - 📫 How to reach me Via
-<h3 align="center">A passionate flutter developer in any country </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalmuneim&label=Profile%20views&color=0e75b6&style=flat" alt="abdalmuneim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalmuneim" alt="abdalmuneim" /></a> </p>
 
