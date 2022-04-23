@@ -4,7 +4,7 @@
 - ✔  I have previous experience building applications
 - 💞️ I’m looking to collaborate on create many and build apps
 - 📫 How to reach me Via
-<h3 align="center">A passionate frontend in any country </h3>
+<h3 align="center">A passionate flutter developer in any country </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
