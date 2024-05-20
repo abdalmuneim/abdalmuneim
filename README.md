@@ -63,6 +63,5 @@
 <div>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmuneim&" alt="abdalmuneim" /></p>
 </div>
-<div>
-![Abdalmuneim_CV.pdf](https://github.com/abdalmuneim/abdalmuneim/files/13257191/Flutter_developer_Abdalmuneim_CV.pdf)
-</div>
+<iframe src="https://github.com/abdalmuneim/abdalmuneim/files/13257191/Flutter_developer_Abdalmuneim_CV.pdf" width="640" height="480"></iframe>
+
