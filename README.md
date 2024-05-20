@@ -1,6 +1,8 @@
 <h3 align="center">A passionate flutter developer in any country </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalmuneim&label=Profile%20views&color=0e75b6&style=flat" alt="abdalmuneim" /> </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalmuneim)](https://github.com/abdalmuneim/github-readme-stats)
+
 - 👋 Hi, I’m @abdalmuneim
 - 👀 I’m interested in flutter and dart
 - 🌱 I’m currently learning flutter and dart
