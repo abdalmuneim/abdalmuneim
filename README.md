@@ -63,5 +63,7 @@
 <div>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmuneim&" alt="abdalmuneim" /></p>
 </div>
-<pdf-viewer src="https://drive.google.com/file/d/18a5RcvfgNif8dn-lXQ3kHDrH6NQgPS2D/view?usp=sharing" width="640" height="480"></pdf-viewer>
+<pdf-viewer src="https://drive.google.com/file/d/18a5RcvfgNif8dn-lXQ3kHDrH6NQgPS2D/view?usp=sharing"></pdf-viewer>
 
+<pdf-viewer src="[Flutter_developer_Abdalmuneim.pdf](https://github.com/abdalmuneim/abdalmuneim/files/15381403/Flutter_developer_Abdalmuneim.pdf)">
+</pdf-viewer>
