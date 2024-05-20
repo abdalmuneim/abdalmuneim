@@ -70,8 +70,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmuneim&layout=compact" />
 </div>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmuneim&" alt="abdalmuneim" /></p>gn="center" src="https://abdalmuneim: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@github-readme-stats.vercel.app/api/top-langs/?username=abdalmuneim&layout=compact" />
-</div>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmuneim&" alt="abdalmuneim" /></p>
 
