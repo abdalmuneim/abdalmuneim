@@ -56,12 +56,11 @@
   </a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalmuneim&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=abdalmuneim&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmuneim&layout=compact" />
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalmuneim&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmuneim&" alt="abdalmuneim" /></p>
 
