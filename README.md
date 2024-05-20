@@ -8,16 +8,12 @@
 - 💞️ I’m looking to collaborate on create many and build apps
 - 📫 How to reach me Via
 
-<a href="https://github.com/abdalmuneim/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=abdalmuneim&column=10&theme=gruvbox&no-frame=true"/>
-</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <a href="https://twitter.com/mo_m_e" target="blank"><img src="https://img.shields.io/twitter/follow/mo_m_e?logo=twitter&style=for-the-badge" alt="mo_m_e" /></a></p>
 <a href="https://linkedin.com/in/abdalmuneim-mahmoud-5865bb176" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <a href="https://stackoverflow.com/users/16687903/abdalmuneim-mahmoud" target="blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a><a href="https://fb.com/abdalmuneim mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalmuneim mahmoud" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ana.bplic" target="blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
