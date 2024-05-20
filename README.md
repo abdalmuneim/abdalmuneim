@@ -67,8 +67,8 @@
 <br>
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=abdalmuneim&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmuneim&layout=compact" />
+  <img height="170" align="left" src="https://mygithubstatus-abdalmuneims-projects.vercel.app/api?username=abdalmuneim&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img align="center" src="https://mygithubstatus-abdalmuneims-projects.vercel.app/api/top-langs/?username=abdalmuneim&layout=compact" />
 </div>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmuneim&" alt="abdalmuneim" /></p>
