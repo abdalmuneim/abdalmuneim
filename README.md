@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="left"> <a href="https://twitter.com/mo_m_e" target="blank"><img src="https://img.shields.io/twitter/follow/mo_m_e?logo=twitter&style=for-the-badge" alt="mo_m_e" /></a></p>
-<a href="https://linkedin.com/in/habdalmuneim-mahmoud-5865bb176" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<a href="https://stackoverflow.com/users/stackoverfabdalmuneim-mahmoud" target="blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+<a href="https://linkedin.com/in/abdalmuneim-mahmoud-5865bb176" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://stackoverflow.com/users/16687903/abdalmuneim-mahmoud" target="blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a><a href="https://fb.com/abdalmuneim mahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalmuneim mahmoud" height="30" width="40" /></a>
 </p>
 
