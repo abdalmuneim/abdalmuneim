@@ -19,6 +19,7 @@
   <a href="https://www.fiverr.com/abdalmuneimmahm?public_mode=true" target="blank"><img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
 <a href="https://mostaql.com/project/create?freelancer=mnem_mahmoud" target="blank"><img src="https://img.shields.io/badge/-Mostaql-blue?style=for-the-badge&logo=mostaql&logoColor=white" alt="Mostaql"/></a>
   <a href="https://www.freelancer.com/u/momeg21" target="blank"><img src="https://img.shields.io/badge/-Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer"/></a>
+  <a href="https://www.upwork.com/freelancers/~012a8f9f431c6de47d?viewMode=1" target="blank"><img src="https://img.shields.io/badge/-Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
