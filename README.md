@@ -1,4 +1,4 @@
-<h3 align="center">A passionate flutter developer in any country </h3>
+<h3 align="center">Flutter developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalmuneim&label=Profile%20views&color=0e75b6&style=flat" alt="abdalmuneim" /> </p>
 
 - 👋 Hi, I’m @abdalmuneim
