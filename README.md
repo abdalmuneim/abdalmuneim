@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on create many and build apps
 - 📫 How to reach me Via
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalmuneim" alt="abdalmuneim" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdalmuneim)](https://github.com/abdalmuneim/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/mo_m_e" target="blank"><img src="https://img.shields.io/twitter/follow/mo_m_e?logo=twitter&style=for-the-badge" alt="mo_m_e" /></a> </p>
 
