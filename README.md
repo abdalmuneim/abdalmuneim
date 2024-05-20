@@ -12,7 +12,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/abdalmuneim-mahmoud-5865bb176" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://stackoverflow.com/users/16687903/abdalmuneim-mahmoud" target="blank"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
-<a href="https://twitter.com/mo_m_e" target="blank"><img src="https://img.shields.io/twitter/follow/mo_m_e?logo=twitter&style=for-the-badge" alt="mo_m_e" /></a>
+<a href="https://x.com/mo_m_e" target="blank"><img src="https://img.shields.io/x/follow/mo_m_e?logo=x&style=for-the-badge" alt="mo_m_e" /></a>
 <a href="https://www.facebook.com/ana.bplic" target="blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 <p align="left">
