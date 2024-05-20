@@ -1,8 +1,6 @@
 <h3 align="center">A passionate flutter developer in any country </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalmuneim&label=Profile%20views&color=0e75b6&style=flat" alt="abdalmuneim" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalmuneim&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 - 👋 Hi, I’m @abdalmuneim
 - 👀 I’m interested in flutter and dart
 - 🌱 I’m currently learning flutter and dart
@@ -62,6 +60,8 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=abdalmuneim&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmuneim&layout=compact" />
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalmuneim&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmuneim&" alt="abdalmuneim" /></p>
 
