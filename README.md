@@ -61,6 +61,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmuneim&layout=compact" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmuneim&" alt="abdalmuneim" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmuneim&" alt="abdalmuneim" /></p>
 
 - [Abdalmuneim_CV.pdf](https://github.com/abdalmuneim/abdalmuneim/files/13257191/Flutter_developer_Abdalmuneim_CV.pdf)
