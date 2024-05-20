@@ -56,10 +56,9 @@
   </a>
 </p>
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=abdalmuneim&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmuneim&layout=compact" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalmuneim&show_icons=true&locale=en&layout=compact" alt="abdalmuneim" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalmuneim&show_icons=true&locale=en" alt="abdalmuneim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmuneim&" alt="abdalmuneim" /></p>
 
