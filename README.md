@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @abdalmuneim
 - 👀 I’m interested in flutter and dart
-- 🌱 I’m currently learning flutter and dart
+- 🌱 I have +6 years experience as Mobile developer Engineering
 - ✔  I have previous experience building applications
 - 💞️ I’m looking to collaborate on create many and build apps
 - 📫 How to reach me Via
